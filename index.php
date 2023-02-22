@@ -1,1 +1,3 @@
-hello world
+<?php
+
+echo "How are you"; 
